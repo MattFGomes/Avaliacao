@@ -1,1 +1,1 @@
-ver se consigo da main branch mandar mudancas pra branch explicacoes
+agora eu sei inclusive merge
