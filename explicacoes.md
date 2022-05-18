@@ -7,4 +7,5 @@ git checkout -b "nome" - cria uma nova branch e ja entra nela com checkout
 git checkout main/nomeDaBranch - sai para a branch main/branch de nome dado
 git push origin nomeDaBranch - empurra as mudancas para a branch marcada
     precisa estar dentro da propria branch
-a partir da main principal que se puxa (pull) o merge
+git merge nomeBranch - a partir da branch main, se puxa o merge com a branch alterada
+git push origin main - empurra tudo, inclusive o que ta merge pra main do github
