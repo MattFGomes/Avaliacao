@@ -9,3 +9,5 @@ git push origin nomeDaBranch - empurra as mudancas para a branch marcada
     precisa estar dentro da propria branch
 git merge nomeBranch - a partir da branch main, se puxa o merge com a branch alterada
 git push origin main - empurra tudo, inclusive o que ta merge pra main do github
+git clone "link" - puxa um projeto para sua maquina
+git pull - puxa as alterações feitas no rep do Github para a maquina
