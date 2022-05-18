@@ -1,0 +1,1 @@
+git checkout -b "nome" - cria uma nova branch e ja entra nela com checkout
